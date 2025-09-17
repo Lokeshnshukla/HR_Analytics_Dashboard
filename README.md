@@ -13,7 +13,8 @@ The goal of this project is to analyze employee attrition and understand:
 - **Workforce Analytics** – Attrition Analysis, Risk Factor Identification  
 <br>
 <br>
-**Dashboard**
+## Dashboard
+<br>
 <img width="906" height="512" alt="image" src="https://github.com/user-attachments/assets/a0d0aeb5-b047-4c92-94f5-c9ff25a6adb7" />
 
 
